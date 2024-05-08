@@ -1,25 +1,22 @@
 {
     "pytania": [
         {
-            "tresc": "Stolicą Polski było",
-            "odpa": "Wilkowyje",
-            "odpb": "Gniezno",
-            "odpc": "Kowno",
-            "poprawna": 1
+            "nazwa": "projekt z AM",
+            "priorytet": 0,
+            "data": "2024-05-05 00:00:00",
+            "zrealizowane": false
         },
         {
-            "tresc": "Prezydentem Polski był",
-            "odpa": "Jarosław Kaczyński",
-            "odpb": "Lecha Wałęsa",
-            "odpc": "Paweł Kozioł",
-            "poprawna": 1
+            "nazwa": "zjesc sniadanie",
+            "priorytet": 1,
+            "data": "2024-05-05 00:00:00",
+            "zrealizowane": true
         },
         {
-            "tresc": "Ostatnie wybory to wybory",
-            "odpa": "parlamentarne",
-            "odpb": "prezydenckie",
-            "odpc": "samorządowe",
-            "poprawna": 0
+            "nazwa": "prawo jazdy",
+            "priorytet": 2,
+            "data": "2024-05-05 00:00:00",
+            "zrealizowane": false
         }
     ]
 }
